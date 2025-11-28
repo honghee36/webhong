@@ -181,7 +181,7 @@
         <h2>NEW DROP</h2>
         <div class="grid">
             <div class="item" onclick="openPopup(0)">
-                <img src="https://i.imgur.com/3jK9k8E.jpeg" alt="Hoodie">
+                <img src="https://clture.org/wp-content/uploads/2025/01/GiY5LpwWIAAchuh-scaled-e1738079038797-1920x1136.jpeg" alt="Hoodie">
                 <p>ESSENTIAL HOODIE</p>
             </div>
             <div class="item" onclick="openPopup(1)">
