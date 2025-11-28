@@ -24,7 +24,7 @@
         /* HERO */
         .hero {
             height:100vh;
-            background:url('https://i.imgur.com/3jK9k8E.jpeg') center/cover no-repeat;
+            background:url('https://clture.org/wp-content/uploads/2025/01/GiY5LpwWIAAchuh-scaled-e1738079038797-1920x1136.jpeg) center/cover no-repeat;
             display:flex; align-items:center; justify-content:center;
             position:relative; filter:grayscale(90%);
         }
